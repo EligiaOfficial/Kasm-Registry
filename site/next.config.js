@@ -7,11 +7,11 @@ const nextConfig = {
     name: 'Eligia\'s Sandbox',
     description: 'My own containers for Kasm.',
     icon: '/img/logo.svg',
-    listUrl: 'https://eligiaofficial.github.io/Kasm-Registry/',
+    listUrl: 'https://registry.eligia.net/',
     contactUrl: 'https://github.com/EligiaOfficial/Kasm-Registry/issues',
   },
   reactStrictMode: true,
-  basePath: '/Kasm-Registry/1.0',
+  basePath: '1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
