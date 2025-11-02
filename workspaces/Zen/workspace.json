@@ -1,7 +1,7 @@
 {
   "friendly_name": "Zen Browser",
   "image_src": "zen.png",
-  "description": "Zen Browser is a privacy friendly browser.",
+  "description": "Zen Browser with betterfox and ublock origin.",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
