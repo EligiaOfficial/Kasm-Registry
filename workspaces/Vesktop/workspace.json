@@ -1,0 +1,27 @@
+{
+  "friendly_name": "Vesktop",
+  "image_src": "vesktop.png",
+  "description": "Vesktop is a customizable and privacy friendly Discord desktop app.",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://git.ebeli.net/",
+  "categories": [
+    "Communication",
+    "Games"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    {
+      "version": "1.17.x",
+      "image": "apps/vesktop:dev",
+      "uncompressed_size_mb": 3233
+    }
+  ]
+}
