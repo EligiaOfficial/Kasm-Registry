@@ -6,7 +6,7 @@
   "memory": 2768,
   "gpu_count": 0,
   "cpu_allocation_method": "Inherit",
-  "docker_registry": "https://git.ebeli.net/",
+  "docker_registry": "https://git.ebeli.net/v2/",
   "categories": [
     "Communication",
     "Games"
@@ -20,7 +20,7 @@
   "compatibility": [
     {
       "version": "1.17.x",
-      "image": "apps/vesktop:dev",
+      "image": "git.ebeli.net/apps/vesktop:dev",
       "uncompressed_size_mb": 3233
     }
   ]
