@@ -22,6 +22,11 @@
       "version": "1.17.x",
       "image": "git.ebeli.net/apps/vesktop:dev",
       "uncompressed_size_mb": 3233
+    },
+    {
+      "version": "1.18.x",
+      "image": "git.ebeli.net/apps/vesktop:dev",
+      "uncompressed_size_mb": 3233
     }
   ]
 }
